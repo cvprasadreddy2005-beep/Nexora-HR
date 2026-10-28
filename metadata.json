@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA HR — Next-Generation Workforce System",
+  "description": "Next-generation Human Resource Management System featuring workforce intelligence, real-time attendance, leave flow, payroll calculations, and talent acquisition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
